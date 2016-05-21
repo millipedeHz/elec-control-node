@@ -1,4 +1,4 @@
-update=5/4/2016 11:13:52 PM
+update=4/26/2016 2:58:20 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../elec-parts-library
+LibDir=../../Downloads/elec-parts-library-master/elec-parts-library-master;C:/Users/TUNO/Downloads/elec-parts-library-master/elec-parts-library-master
 [eeschema/libraries]
 LibName1=power
 LibName2=device

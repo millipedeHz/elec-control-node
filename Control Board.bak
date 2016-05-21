@@ -911,7 +911,7 @@ Wire Wire Line
 Wire Wire Line
 	5050 4350 5050 4500
 Wire Wire Line
-	5050 4500 5250 4500
+	5050 4500 5150 4500
 Wire Wire Line
 	5150 4500 5150 4350
 Wire Wire Line
@@ -1124,7 +1124,4 @@ Text Label 4050 3100 3    60   ~ 0
 LRF_Rx
 Text Label 4200 3250 3    60   ~ 0
 LRF_Tx
-Wire Wire Line
-	5250 4500 5250 4350
-Connection ~ 5150 4500
 $EndSCHEMATC
